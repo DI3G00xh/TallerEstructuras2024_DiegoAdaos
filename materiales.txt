@@ -1,0 +1,4 @@
+Libro,El Quijote,978-3-16-148410-0,Miguel de Cervantes,1605,Una novela sobre un caballero loco,0
+Libro,La Odisea,978-0-14-026886-7,Homero,-800,Aventura épica de Ulises,1
+Revista,Pokemón,0027-9358,Nintendo,100,Junio,0
+Libro,Chistes Malos,12-34-2334,Oscar,21,Chistes Muy Malos.,0
