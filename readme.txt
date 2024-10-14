@@ -1,5 +1,7 @@
 Nombre: Diego Adaos
 Paralelo: c1
+Rut: 21.535.504-7
+Correo: diego.adaos01@alumnos.ucn.cl
 
 comando para compilar:
 g++ main.cpp Usuario.cpp Libro.cpp Revista.cpp -o programa
